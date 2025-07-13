@@ -2,7 +2,7 @@
 
 
 Olá, eu me chamo Vagner Melo, tenho 21 anos, sou um graduando em Ciência da Computação pela Cesar School e possuo um curso técnico no Senac, aprendendo SQL, Python e Django.
-Eu sou um programador BackEnd, com foco em desevolvimento Web utilizando a plataforma Django. 
+Eu sou um programador BackEnd, com foco em desevolvimento Web utilizando a plataforma Django. Atualmente eu também estudo como fazer aplicações com IA, aprendendendo sobre Langchain e como manipular a API da OpenAI. 
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
@@ -14,7 +14,7 @@ Eu sou um programador BackEnd, com foco em desevolvimento Web utilizando a plata
 </p>
 
 <p align="left">
- Ferramentas/Frameworks: <b>Django, github, PosgreSQL</b>
+ Ferramentas/Frameworks: <b>Django, github, PosgreSQL, Langchain</b>
 </p>
 
 <p align="left">
