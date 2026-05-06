@@ -7,7 +7,6 @@ Eu sou um programador FullStack, com foco em desevolvimento Web, possuo conhecim
 
 Consigo programar em diversas frameworks como Django, FastAPI e SpringBoot para o BackEnd e React no FrontEnd.
 
-Atualmente sou cofundador do VDN, criando aplicações para empresas utilizando SpringBoot com scripts SQL e o React nas aplicações.
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
