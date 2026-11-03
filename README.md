@@ -1,7 +1,7 @@
 # Sobre mim
 
 
-Olá, eu me chamo Vagner Melo, tenho 22 anos, sou um graduando em Ciência da Computação pela Cesar School e possuo um curso técnico no Senac em Desenvolvedor de sistemas.
+Olá, eu me chamo Vagner Melo, tenho 23 anos, sou um graduando em Ciência da Computação pela Cesar School e possuo um curso técnico no Senac em Desenvolvedor de sistemas.
 
 Eu sou um programador FullStack, com foco em desevolvimento Web, possuo conhecimento em Java, Python, C e SQL e JavaScript.
 
